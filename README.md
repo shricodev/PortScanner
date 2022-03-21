@@ -4,7 +4,7 @@ A Simple Port Scanner with Multi-Threading And User Defined Port Range built in 
 ## Installation
 ```
 git clone https://github.com/r3alix01/Portscanner.git
-cd Portscanner
+cd PortScanner
 chmod +x portScanMultiThreaded.py
 ```
 
